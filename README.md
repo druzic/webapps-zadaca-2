@@ -1,19 +1,7 @@
-# webapps-zadaca-2
+# webapps-zadaca
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Ime: Dominik
+- Prezime: Ružić
+- JMBAG: 0303092311
+- Kolegij: Web Apps
+- Opis: Pošalji zahtjeve i prikaži ih u tablici
